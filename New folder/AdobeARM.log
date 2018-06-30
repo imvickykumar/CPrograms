@@ -1,0 +1,15 @@
+[2017-05-30 15:40:44:0029] Adobe ARM 1.824.22.5037 logging started.
+[2017-05-30 15:40:44:0031] Command Line: 
+[2017-05-30 15:40:44:0346] Too soon to check for arm update
+[2017-05-30 15:40:44:0428] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2017-05-30 15:40:44:0428] ProductName: Adobe Acrobat Reader DC
+[2017-05-30 15:40:44:0428] ProductVersion: 17.009.20044
+[2017-05-30 15:40:44:0428] ProductUACPatching: enabled
+[2017-05-30 15:40:44:0495] Using registered preference AUTO_ALL
+[2017-05-30 15:40:44:0496] Last check for updates not expired
+[2017-05-30 15:40:44:0496]    Error Code: 120300
+[2017-05-30 15:40:44:0496] Using registered preference AUTO_ALL
+[2017-05-30 15:40:44:0497] Last check for updates not expired
+[2017-05-30 15:40:44:0497]    Error Code: 120300
+[2017-05-30 15:40:44:0711] ARM returns ERROR_SUCCESS
+[2017-05-30 15:40:44:0711] Adobe ARM 1.824.22.5037 logging finished.
